@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pulse_primary">#00F0FF</color>
+    <color name="pulse_secondary">#7928CA</color>
+    <color name="pulse_background">#0A0E17</color>
+    <color name="pulse_surface">#141A29</color>
+    <color name="pulse_on_background">#F0F6FC</color>
+    <color name="pulse_accent_green">#00E676</color>
+    <color name="pulse_accent_red">#FF3366</color>
+    <color name="ic_launcher_background">#0A0E17</color>
+</resources>

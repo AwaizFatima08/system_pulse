@@ -1,0 +1,26 @@
+# Build output
+.gradle/
+build/
+app/build/
+.kotlin/
+*.apk
+*.aab
+*.idsig
+
+# Local machine / IDE
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+
+# Secrets & Keys
+*.jks
+*.keystore
+keystore.properties
+.env
+google-services.json
+
+# Temporary / logs
+*.log
+scratch/
